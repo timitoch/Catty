@@ -110,526 +110,337 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tree_sprites_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 192
-        width: 48
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fce3dc74bab8f2a4c83ca2b1144afaec
-      internalID: -544224907
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tree_sprites_1
+      name: Basic Charakter Spritesheet_0
       rect:
         serializedVersion: 2
         x: 0
         y: 144
         width: 48
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.49820355, y: 0.33723226}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae5a96cec856916479ee9a65fd655234
-      internalID: -322027182
+      spriteID: a5ae89f37f2f21e4b88e60abd7597014
+      internalID: 830032223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tree_sprites_2
+      name: Basic Charakter Spritesheet_1
       rect:
         serializedVersion: 2
         x: 48
         y: 144
         width: 48
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.4959971, y: 0.33814368}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 307d83d9d835540438d54fcebc8fb082
-      internalID: 365244774
+      spriteID: 84db9729b7743b640bf57a6ddd2475ee
+      internalID: -885645178
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tree_sprites_3
+      name: Basic Charakter Spritesheet_2
       rect:
         serializedVersion: 2
         x: 96
         y: 144
         width: 48
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.49717984, y: 0.3359089}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c4d53c04c707c1469c96dde5e449094
-      internalID: -2134426674
+      spriteID: 42f7060a41818dd4d8489b56d774ff65
+      internalID: -22772460
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tree_sprites_4
+      name: Basic Charakter Spritesheet_3
       rect:
         serializedVersion: 2
         x: 144
         y: 144
         width: 48
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.49932513, y: 0.33259043}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f5a7da609a329948984aa8df2e39a56
-      internalID: -1179204321
+      spriteID: 1551666cd61b60447816c40a2a8d36b0
+      internalID: -461508247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tree_sprites_5
+      name: Basic Charakter Spritesheet_4
       rect:
         serializedVersion: 2
         x: 0
         y: 96
         width: 48
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34152523}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4643752c1d406d94ab37c5550c99dea5
-      internalID: -574268481
+      spriteID: 0a0785aa4444f5c4db845dcb61833896
+      internalID: 1105977603
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tree_sprites_6
+      name: Basic Charakter Spritesheet_5
       rect:
         serializedVersion: 2
         x: 48
         y: 96
         width: 48
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.49685207, y: 0.3441801}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9252a87beca21ef44aa863c051eb23fa
-      internalID: -1015259926
+      spriteID: c91f2a73b0db00e41b6c8df155541d6e
+      internalID: -136712105
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tree_sprites_7
+      name: Basic Charakter Spritesheet_6
       rect:
         serializedVersion: 2
         x: 96
         y: 96
         width: 48
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.34615645}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5f7ea318ef97d7438a5a45e5ced9031
-      internalID: -993682248
+      spriteID: aa150f201bd92a642975e6694c3f9fda
+      internalID: 31737829
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tree_sprites_8
+      name: Basic Charakter Spritesheet_7
       rect:
         serializedVersion: 2
         x: 144
         y: 96
         width: 48
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.505223, y: 0.34331003}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6e9f990e6b704949b794f2b11d15ffd
-      internalID: 1567241788
+      spriteID: 2d14a4c56a3ff11469ac38ab3b7670cf
+      internalID: 1512122161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tree_sprites_9
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 96
-        width: 48
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e1bfdcbc3d3c91f409766bdfc89475da
-      internalID: -1525365951
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tree_sprites_10
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 96
-        width: 48
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 599e9376807bf754c91530821cb856ac
-      internalID: 892573124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tree_sprites_11
+      name: Basic Charakter Spritesheet_8
       rect:
         serializedVersion: 2
         x: 0
         y: 48
         width: 48
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.49845174, y: 0.33742842}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b1207f245cd1c149a03acc59a142c32
-      internalID: 50600613
+      spriteID: abb06a6b89008e842a5500f6585d49e1
+      internalID: -686076219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tree_sprites_12
+      name: Basic Charakter Spritesheet_9
       rect:
         serializedVersion: 2
         x: 48
         y: 48
         width: 48
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.49797186, y: 0.3418069}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0154b931f8e7da44a61b35c08a0566c
-      internalID: -993702733
+      spriteID: 9dc58334b843ff5448f18de47d60fafc
+      internalID: -1151598243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tree_sprites_13
+      name: Basic Charakter Spritesheet_10
       rect:
         serializedVersion: 2
         x: 96
         y: 48
         width: 48
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.48632416, y: 0.34370375}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07de843ed75cb214491d094f500a37ee
-      internalID: 567075548
+      spriteID: 05bec34b431751148b08e730eb41219c
+      internalID: -1901000510
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tree_sprites_14
+      name: Basic Charakter Spritesheet_11
       rect:
         serializedVersion: 2
         x: 144
         y: 48
         width: 48
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.49105582, y: 0.34347758}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75882c02e602663439067d8590959c42
-      internalID: -1470381917
+      spriteID: 74c16a05703dc774fb5b84903e8ae7a4
+      internalID: -2099384108
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tree_sprites_15
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 48
-        width: 48
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 846217c43b73bec45913fa0125159704
-      internalID: 884848016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tree_sprites_16
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 48
-        width: 48
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 130ee9939ea0c3946b07a042c88e39c9
-      internalID: 913262726
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tree_sprites_17
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 48
-        width: 48
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6d9e04f3a0b11c14684e25a1a27170d4
-      internalID: 976894576
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tree_sprites_18
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 48
-        width: 48
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7e76ec2d227a38c40b3384be7a484d86
-      internalID: 918607062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tree_sprites_19
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 48
-        width: 48
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 39b2081b819217b479ab5df706a21855
-      internalID: -833473084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tree_sprites_20
-      rect:
-        serializedVersion: 2
-        x: 432
-        y: 48
-        width: 48
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b0586ac719d1cb443946b07c6a6443b6
-      internalID: 1550325175
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tree_sprites_21
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 48
-        width: 48
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 29d6cd15a55350040bd7f1187d1d9ff6
-      internalID: -1283300585
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tree_sprites_22
-      rect:
-        serializedVersion: 2
-        x: 528
-        y: 48
-        width: 48
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6f727f21d3f02b845aee9276b422571f
-      internalID: -2040565743
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tree_sprites_23
+      name: Basic Charakter Spritesheet_12
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 48
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.47792563, y: 0.3418001}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c307f2af0f69a8f4c84e67e53300bc13
-      internalID: -526061453
+      spriteID: b67441e26416fec43a52cbe5ee9ed8c5
+      internalID: 1080119760
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tree_sprites_24
+      name: Basic Charakter Spritesheet_13
       rect:
         serializedVersion: 2
         x: 48
         y: 0
         width: 48
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34510002}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15b9f3b16ac1e2e49a54b6ef5a5dfca6
-      internalID: 388285563
+      spriteID: feeef7411e0cb0d4282ea8fbc3dae80d
+      internalID: 1862657988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.51111287, y: 0.34256628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874274cc2dd43224d84ea408831d16a8
+      internalID: -1894095813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.49862257, y: 0.34156063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c7ff73ffbe7ec4d8ba1f7471831864
+      internalID: 254388790
       vertices: []
       indices: 
       edges: []
@@ -645,31 +456,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      tree_sprites_0: -544224907
-      tree_sprites_1: -322027182
-      tree_sprites_10: 892573124
-      tree_sprites_11: 50600613
-      tree_sprites_12: -993702733
-      tree_sprites_13: 567075548
-      tree_sprites_14: -1470381917
-      tree_sprites_15: 884848016
-      tree_sprites_16: 913262726
-      tree_sprites_17: 976894576
-      tree_sprites_18: 918607062
-      tree_sprites_19: -833473084
-      tree_sprites_2: 365244774
-      tree_sprites_20: 1550325175
-      tree_sprites_21: -1283300585
-      tree_sprites_22: -2040565743
-      tree_sprites_23: -526061453
-      tree_sprites_24: 388285563
-      tree_sprites_3: -2134426674
-      tree_sprites_4: -1179204321
-      tree_sprites_5: -574268481
-      tree_sprites_6: -1015259926
-      tree_sprites_7: -993682248
-      tree_sprites_8: 1567241788
-      tree_sprites_9: -1525365951
+      Basic Charakter Spritesheet_0: 830032223
+      Basic Charakter Spritesheet_1: -885645178
+      Basic Charakter Spritesheet_10: -1901000510
+      Basic Charakter Spritesheet_11: -2099384108
+      Basic Charakter Spritesheet_12: 1080119760
+      Basic Charakter Spritesheet_13: 1862657988
+      Basic Charakter Spritesheet_14: -1894095813
+      Basic Charakter Spritesheet_15: 254388790
+      Basic Charakter Spritesheet_2: -22772460
+      Basic Charakter Spritesheet_3: -461508247
+      Basic Charakter Spritesheet_4: 1105977603
+      Basic Charakter Spritesheet_5: -136712105
+      Basic Charakter Spritesheet_6: 31737829
+      Basic Charakter Spritesheet_7: 1512122161
+      Basic Charakter Spritesheet_8: -686076219
+      Basic Charakter Spritesheet_9: -1151598243
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

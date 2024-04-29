@@ -2,14 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class HitTreeWithApplles : MonoBehaviour
+public class HitTreeWithPeaches : MonoBehaviour
 {
     Animator animator;
     public int treeHp = 2;
     public Player player;
     public float rage = 0.5f;
     float distance;
-    public GameObject applePrefab; // Префаб яблука
+    public GameObject peachPrefab; // Префаб 
 
     void Start()
     {
@@ -41,7 +41,6 @@ public class HitTreeWithApplles : MonoBehaviour
     IEnumerator SpawnApple()
     {
         yield return new WaitForSeconds(2);
-        Instantiate(applePrefab);
+        Instantiate(peachPrefab);
     }
 }
-
