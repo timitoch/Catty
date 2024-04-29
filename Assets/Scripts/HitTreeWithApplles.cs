@@ -7,7 +7,7 @@ public class HitTreeWithApplles : MonoBehaviour
     Animator animator;
     public int treeHp = 3;
     public Player player;
-    public float rage = 1.5f;
+    public float rage = 0.5f;
     float distance;
     public GameObject applePrefab; // Префаб яблука
 
