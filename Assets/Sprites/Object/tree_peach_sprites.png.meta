@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8f5951d892b7f2e48b6342a6fd25de8b
+guid: 0bc670cf717e2784e9b480b65df0530c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,337 +110,484 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_0
+      name: tree_peach_sprites_0
       rect:
         serializedVersion: 2
         x: 0
         y: 144
         width: 48
         height: 48
-      alignment: 9
-      pivot: {x: 0.49959242, y: 0.3473266}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5ae89f37f2f21e4b88e60abd7597014
-      internalID: 830032223
+      spriteID: 1425d4a23a10d8846912a0b6e55506c1
+      internalID: -830043810
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_1
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 144
-        width: 48
-        height: 48
-      alignment: 9
-      pivot: {x: 0.4959971, y: 0.33310032}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 84db9729b7743b640bf57a6ddd2475ee
-      internalID: -885645178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Charakter Spritesheet_2
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 144
-        width: 48
-        height: 48
-      alignment: 9
-      pivot: {x: 0.49717984, y: 0.3359089}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 42f7060a41818dd4d8489b56d774ff65
-      internalID: -22772460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Charakter Spritesheet_3
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 144
-        width: 48
-        height: 48
-      alignment: 9
-      pivot: {x: 0.49932513, y: 0.33259043}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1551666cd61b60447816c40a2a8d36b0
-      internalID: -461508247
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Charakter Spritesheet_4
+      name: tree_peach_sprites_1
       rect:
         serializedVersion: 2
         x: 0
         y: 96
         width: 48
         height: 48
-      alignment: 9
-      pivot: {x: 0.5, y: 0.34152523}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a0785aa4444f5c4db845dcb61833896
-      internalID: 1105977603
+      spriteID: 9b8445d4a1423af42bedffda5df3c554
+      internalID: 2061825432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_5
+      name: tree_peach_sprites_2
       rect:
         serializedVersion: 2
         x: 48
         y: 96
         width: 48
         height: 48
-      alignment: 9
-      pivot: {x: 0.49685207, y: 0.3441801}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c91f2a73b0db00e41b6c8df155541d6e
-      internalID: -136712105
+      spriteID: 26723bf31c62bf14382a106e51f084ce
+      internalID: 710127833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_6
+      name: tree_peach_sprites_3
       rect:
         serializedVersion: 2
         x: 96
         y: 96
         width: 48
         height: 48
-      alignment: 9
-      pivot: {x: 0.49598184, y: 0.3361098}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa150f201bd92a642975e6694c3f9fda
-      internalID: 31737829
+      spriteID: 3fd336b83415c39478946be624a9eeec
+      internalID: -1296688411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_7
+      name: tree_peach_sprites_4
       rect:
         serializedVersion: 2
         x: 144
         y: 96
         width: 48
         height: 48
-      alignment: 9
-      pivot: {x: 0.5012557, y: 0.33735943}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d14a4c56a3ff11469ac38ab3b7670cf
-      internalID: 1512122161
+      spriteID: abf902a03c2d5aa4e932e6f4eb6883b6
+      internalID: 1361808057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_8
+      name: tree_peach_sprites_5
       rect:
         serializedVersion: 2
         x: 0
         y: 48
         width: 48
         height: 48
-      alignment: 9
-      pivot: {x: 0.49845174, y: 0.33742842}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: abb06a6b89008e842a5500f6585d49e1
-      internalID: -686076219
+      spriteID: 6aeb6793329e5ee468dc48743ebedb20
+      internalID: -1766885056
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_9
+      name: tree_peach_sprites_6
       rect:
         serializedVersion: 2
         x: 48
         y: 48
         width: 48
         height: 48
-      alignment: 9
-      pivot: {x: 0.49797186, y: 0.3418069}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9dc58334b843ff5448f18de47d60fafc
-      internalID: -1151598243
+      spriteID: c2eee573f3ef84b45bd00b56ed5b4c86
+      internalID: -1802217164
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_10
+      name: tree_peach_sprites_7
       rect:
         serializedVersion: 2
         x: 96
         y: 48
         width: 48
         height: 48
-      alignment: 9
-      pivot: {x: 0.48632416, y: 0.34370375}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05bec34b431751148b08e730eb41219c
-      internalID: -1901000510
+      spriteID: b8a3ffadbaa549646abb6dfd2b5d8c5c
+      internalID: 626136184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_11
+      name: tree_peach_sprites_8
       rect:
         serializedVersion: 2
         x: 144
         y: 48
         width: 48
         height: 48
-      alignment: 9
-      pivot: {x: 0.49105582, y: 0.34347758}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74c16a05703dc774fb5b84903e8ae7a4
-      internalID: -2099384108
+      spriteID: 8d45b2bae0ea63a49a4c968e9f076a54
+      internalID: 101828242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_12
+      name: tree_peach_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83850877f4ed15c4a877870ce2e4dccf
+      internalID: -744379261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_peach_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6804b51a200ca1940bf82aabbb2687e7
+      internalID: -754237625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_peach_sprites_11
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 48
         height: 48
-      alignment: 9
-      pivot: {x: 0.47792563, y: 0.3418001}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b67441e26416fec43a52cbe5ee9ed8c5
-      internalID: 1080119760
+      spriteID: e187d058c61da5349a3d1b5a93b10798
+      internalID: -945153674
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_13
+      name: tree_peach_sprites_12
       rect:
         serializedVersion: 2
         x: 48
         y: 0
         width: 48
         height: 48
-      alignment: 9
-      pivot: {x: 0.5, y: 0.34510002}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: feeef7411e0cb0d4282ea8fbc3dae80d
-      internalID: 1862657988
+      spriteID: 951ee8d487cc4d147815428e5472c6de
+      internalID: -1932899965
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_14
+      name: tree_peach_sprites_13
       rect:
         serializedVersion: 2
         x: 96
         y: 0
         width: 48
         height: 48
-      alignment: 9
-      pivot: {x: 0.51111287, y: 0.34256628}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 874274cc2dd43224d84ea408831d16a8
-      internalID: -1894095813
+      spriteID: a9c713c76e49b1c44916ec5262fbd79a
+      internalID: -1981359530
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_15
+      name: tree_peach_sprites_14
       rect:
         serializedVersion: 2
         x: 144
         y: 0
         width: 48
         height: 48
-      alignment: 9
-      pivot: {x: 0.49862257, y: 0.34156063}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39c7ff73ffbe7ec4d8ba1f7471831864
-      internalID: 254388790
+      spriteID: 1a5557eb3ee1f8a4aaa81ef33a8cbeb3
+      internalID: -133757937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_peach_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2601fe311cf56c9498c1de5b06cd96d0
+      internalID: -298337250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_peach_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a44d675b89d412489456b271b4ad3cd
+      internalID: -2105600327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_peach_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7331523763618ce41ae67c24db5b6ac8
+      internalID: 1136027301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_peach_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805ec444e1286114587a368b4a5bdb16
+      internalID: -1484205797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_peach_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82e3398e72363b4a927b52452454c37
+      internalID: 412755963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_peach_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab1e44e455d6f448be2fe9f662fb423
+      internalID: 1462294705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_peach_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05477b15049482846aba169b8f499074
+      internalID: -1947592506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_peach_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0d74756fc67394ca701b76b3983a5c
+      internalID: -1503513104
       vertices: []
       indices: 
       edges: []
@@ -456,22 +603,29 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Basic Charakter Spritesheet_0: 830032223
-      Basic Charakter Spritesheet_1: -885645178
-      Basic Charakter Spritesheet_10: -1901000510
-      Basic Charakter Spritesheet_11: -2099384108
-      Basic Charakter Spritesheet_12: 1080119760
-      Basic Charakter Spritesheet_13: 1862657988
-      Basic Charakter Spritesheet_14: -1894095813
-      Basic Charakter Spritesheet_15: 254388790
-      Basic Charakter Spritesheet_2: -22772460
-      Basic Charakter Spritesheet_3: -461508247
-      Basic Charakter Spritesheet_4: 1105977603
-      Basic Charakter Spritesheet_5: -136712105
-      Basic Charakter Spritesheet_6: 31737829
-      Basic Charakter Spritesheet_7: 1512122161
-      Basic Charakter Spritesheet_8: -686076219
-      Basic Charakter Spritesheet_9: -1151598243
+      tree_peach_sprites_0: -830043810
+      tree_peach_sprites_1: 2061825432
+      tree_peach_sprites_10: -754237625
+      tree_peach_sprites_11: -945153674
+      tree_peach_sprites_12: -1932899965
+      tree_peach_sprites_13: -1981359530
+      tree_peach_sprites_14: -133757937
+      tree_peach_sprites_15: -298337250
+      tree_peach_sprites_16: -2105600327
+      tree_peach_sprites_17: 1136027301
+      tree_peach_sprites_18: -1484205797
+      tree_peach_sprites_19: 412755963
+      tree_peach_sprites_2: 710127833
+      tree_peach_sprites_20: 1462294705
+      tree_peach_sprites_21: -1947592506
+      tree_peach_sprites_22: -1503513104
+      tree_peach_sprites_3: -1296688411
+      tree_peach_sprites_4: 1361808057
+      tree_peach_sprites_5: -1766885056
+      tree_peach_sprites_6: -1802217164
+      tree_peach_sprites_7: 626136184
+      tree_peach_sprites_8: 101828242
+      tree_peach_sprites_9: -744379261
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
